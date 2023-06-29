@@ -1,4 +1,4 @@
-package com.vicentetfreitas.springcoredemo;
+package com.vicentetfreitas.springcoredemo.common;
 
 import org.springframework.stereotype.Component;
 
